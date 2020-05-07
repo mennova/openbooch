@@ -25,4 +25,4 @@ nav:
   - Home: index.md
   - Brewing Methods:
     - Batch Brewing: methods/batch.md
-    - Continuous Brewing (CB): methods/continuous.cb
+    - Continuous Brewing: methods/continuous.cb
