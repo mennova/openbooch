@@ -23,6 +23,9 @@ extra:
 
 nav:
   - Home: index.md
+  - Contribute: contributing.md
   - Brewing Methods:
     - 'Batch Brewing': methods/batch.md
     - 'Continuous Brewing (CB)': methods/continuous.md
+  - Recipes:
+    - Index: recipes/index.md
