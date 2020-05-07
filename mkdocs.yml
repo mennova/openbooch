@@ -14,12 +14,12 @@ theme:
 extra:
   disqus: openbooch
 
-markdown_extensions:
-  - admonition
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
+# markdown_extensions:
+#   - admonition
+#   - codehilite:
+#       guess_lang: false
+#   - toc:
+#       permalink: true
 
 nav:
   - Home: index.md
