@@ -8,4 +8,4 @@ Batch brewing is a method which completes a batch of kombucha from beginning to 
 4. When ready, keep some liquid as started tea, and remove scoby.
 5. Bottle or jar your fresh new batch of kombucha
 
-If desired, these steps can be expanded to allow for a [second fermentation](../second_fermentation.md) ([2F](../../glossary/#2F)), building a [SCOBY hotel](../scoby_hotel), etc.
+If desired, these steps can be expanded to allow for a [second fermentation](../second_fermentation) ([2F](../../glossary/#2F)), building a [SCOBY hotel](../scoby_hotel), etc.
