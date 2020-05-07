@@ -1,4 +1,28 @@
-site_name: My Docs
+site_name: OpenBooch
+repo_name: mennova/openbooch
+repo_url: https://github.com/mennova/openbooch
 
 theme:
   name: "material"
+  features:
+    - tabs
+    - instant
+  palette:
+    primary: blue grey
+    accent: deep orange
+
+extra:
+  disqus: openbooch
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Brewing Methods:
+    - Batch Brewing: methods/batch.md
+    - Continuous Brewing (CB): methods/continuous.cb
