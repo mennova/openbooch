@@ -27,5 +27,7 @@ nav:
   - Brewing Methods:
     - 'Batch Brewing': methods/batch.md
     - 'Continuous Brewing (CB)': methods/continuous.md
+    - 'SCOBY Hotel': methods/scoby_hotel.md
+    - 2nd Fermentation: methods/second_fermentation.md
   - Recipes:
     - Index: recipes/index.md
