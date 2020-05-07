@@ -11,8 +11,8 @@ theme:
     primary: blue grey
     accent: deep orange
 
-extra:
-  disqus: openbooch
+# extra:
+#   disqus: openbooch
 
 # markdown_extensions:
 #   - admonition
