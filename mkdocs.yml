@@ -8,28 +8,32 @@ theme:
     - tabs
     - instant
   palette:
-    primary: blue grey
+    primary: green
     accent: deep orange
+  include_search_page: false
+  search_index_only: true
 
 # extra:
 #   disqus: openbooch
 
-# markdown_extensions:
-#   - admonition
-#   - codehilite:
-#       guess_lang: false
-#   - toc:
-#       permalink: true
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
 
 nav:
   - Home: index.md
   - Contribute: contributing.md
-  - Brewing Methods:
-    - 'Batch Brewing': methods/batch.md
-    - 'Continuous Brewing (CB)': methods/continuous.md
-    - 'SCOBY Hotel': methods/scoby_hotel.md
-    - 2nd Fermentation: methods/second_fermentation.md
+  - Kombucha Methods:
+    - 'Batch Brewing': kombucha_methods/batch.md
+    - 'Continuous Brewing (CB)': kombucha_methods/continuous.md
+    - 'SCOBY Hotel': kombucha_methods/scoby_hotel.md
+    - 2nd Fermentation: kombucha_methods/second_fermentation.md
+    - FAQ: kombucha_methods/faq.md
   - Recipes:
-    - Index: recipes/index.md
+    - Index: kombucha_recipes/index.md
   - Water Kefir:
     - Water Kefir: water_kefir.md
+  - Glossary: glossary.md
